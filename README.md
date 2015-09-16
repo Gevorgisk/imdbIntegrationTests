@@ -1,4 +1,5 @@
 Make sure you have:
+
 1. "Maven 2 Eclipse" plugin installed in Eclipse IDE (Download from Eclipse MarketPlace)
 
 2. Firefox 29.0 installed, it can be downloaded by the following URL:
